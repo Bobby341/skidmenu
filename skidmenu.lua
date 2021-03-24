@@ -128,6 +128,7 @@ menulist = {
         'planes',
         'service',
         'commercial',
+	'customs',
         
         
         -- WORLD SUBMENUS
@@ -1168,6 +1169,10 @@ local service = {
     "THRUSTER",
     "TRAILERSMALL2"
 }
+local customs = {
+    "DIVO"
+}   
+
 
 local commercial = {
     "BENSON",
